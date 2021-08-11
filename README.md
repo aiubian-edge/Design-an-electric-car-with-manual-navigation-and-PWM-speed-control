@@ -1,0 +1,2 @@
+# Design-an-electric-car-with-manual-navigation-and-PWM-speed-control
+Due to the extreme negative effects of gasoline engines on the environment and  people, the automotive industry has shifted to electric cars. This study describes the operation of  an electric car and compares it to internal combustion engines and hybrid car. The research outlines  some of the benefits and drawbacks of electric cars. A brief future picture of the technology is also  provided.
